@@ -1,0 +1,3 @@
+This project explores the basic operation of a standard LED using the ESP32.
+
+The objective is to understand how digital outputs work and how PWM can be used to control brightness.

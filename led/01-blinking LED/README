@@ -1,0 +1,55 @@
+# 01 - Blink
+
+## Objective
+
+Create the simplest ESP32 program by blinking an LED.
+
+## Components Used
+
+- ESP32
+- LED
+- 220 Ω resistor
+- Breadboard
+- Jumper wires
+
+## Concepts
+
+- GPIO Output
+- HIGH and LOW states
+- pinMode()
+- digitalWrite()
+- delay()
+- variables
+
+## Wiring
+
+| LED | ESP32 |
+|-----|-------|
+| Anode | GPIO 23 (through 220 Ω resistor) |
+| Cathode | GND  |
+
+## Expected Result
+
+The LED turns on for one second and turns off for one second continuously.
+
+## What I Learned
+
+- How to configure an output pin
+- How current flows through an LED
+- Why a resistor is required
+- How the Arduino loop() function works
+- How to properly use variables
+
+## Challenges
+
+- Forgot to set the pin as OUTPUT.
+
+## Improvements
+
+- Allow the blink speed to be adjusted.
+- Add multiple LEDs.
+
+## Resources
+
+- ESP32 Documentation
+- Arduino Documentation

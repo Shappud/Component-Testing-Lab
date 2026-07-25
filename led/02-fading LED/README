@@ -1,0 +1,58 @@
+# 02 - fading LED
+
+## Objective
+
+Control the brightness of an LED by gradually increasing and decreasing its intensity using PWM (Pulse Width Modulation) on the ESP32.
+
+## Components Used
+
+- ESP32
+- LED
+- 220 Ω resistor
+- Breadboard
+- Jumper wires
+
+## Concepts
+
+- PWM (Pulse Width Modulation)
+- LEDC (ESP32 PWM)
+- Duty cycle
+- GPIO Output
+- `ledcAttach()`
+- `ledcWrite()`
+- `for` loops
+- Variables
+
+## Wiring
+
+- LED Anode → GPIO 23 (through a 220 Ω resistor)
+- LED Cathode → GND
+
+## Expected Result
+
+The LED smoothly fades from off to full brightness, then fades back to off continuously.
+
+## What I Learned
+
+- How PWM controls LED brightness
+- The difference between digital output and PWM output
+- How duty cycle affects LED intensity
+- How to use `for` loops for gradual changes
+- How to configure PWM on the ESP32
+
+## Challenges
+
+- Configuring the correct PWM channel and output pin.
+- Adjusting the delay values to achieve a smooth fading effect.
+
+## Improvements
+
+- Add a potentiometer to control the fade speed.
+- Fade multiple LEDs simultaneously.
+- Create different breathing light patterns.
+- Control the brightness wirelessly using Bluetooth or Wi-Fi.
+
+## Resources
+
+- ESP32 Documentation
+- Arduino Documentation

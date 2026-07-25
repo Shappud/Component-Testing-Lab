@@ -1,0 +1,108 @@
+# LED Fading with ESP32
+
+A simple ESP32 project that demonstrates Pulse Width Modulation (PWM) by smoothly fading an LED in and out. This project introduces the basics of analog output control and PWM programming using the Arduino IDE.
+
+## Project Overview
+
+This project gradually changes the brightness of an LED by increasing and decreasing its PWM duty cycle. Instead of simply turning the LED on or off, the ESP32 creates a smooth "breathing" or fading effect.
+
+## Features
+
+- Smooth LED fade in and fade out
+- Uses ESP32 PWM 
+- Easy to customize fade speed
+- Beginner-friendly code
+- Great introduction to PWM
+
+## Components Used
+
+- ESP32 Development Board
+- LED
+- 220Ω Resistor
+- Breadboard
+- Jumper Wires
+
+## Wiring
+
+- GPIO 23 → LED Anode (+)
+- LED Cathode (-) → 220Ω Resistor → GND
+
+> **Note:** Replace GPIO 23 if your project uses a different output pin.
+
+## Folder Contents
+
+```
+LED-Fading/
+├── code/
+│   └── led_fading.ino
+├── images/
+│   ├── wiring.jpg
+│   ├── setup.jpg
+│   └── demo.gif
+└── README.md
+```
+
+## How It Works
+
+The ESP32 outputs a PWM signal on the selected GPIO pin. The program gradually increases the PWM duty cycle until the LED reaches maximum brightness, then decreases it back to zero. This continuous cycle creates a smooth fading effect.
+
+## Getting Started
+
+1. Connect the circuit as shown in the wiring section.
+2. Open the project in the Arduino IDE.
+3. Select your ESP32 board and correct COM port.
+4. Upload the sketch.
+5. Observe the LED smoothly fading in and out.
+
+## Demonstration
+
+Include the following media in the `images` folder:
+
+- Circuit setup photo
+- Wiring photo
+- GIF or video of the fading effect
+
+## Test Results
+
+The LED successfully performed a smooth fade-in and fade-out cycle using the ESP32's PWM functionality. Brightness transitioned evenly without flickering, confirming proper PWM configuration and stable circuit connections.
+
+## Common Issues
+
+### LED does not turn on
+
+- Check the LED polarity.
+- Verify the GPIO pin in the code.
+- Ensure all wiring connections are secure.
+
+### LED stays fully ON
+
+- Confirm that PWM is configured correctly.
+- Make sure the duty cycle changes inside the loop.
+
+### LED flickers
+
+- Reduce the fade speed.
+- Check for loose jumper wires.
+- Verify that the ESP32 is receiving stable power.
+
+## Learning Outcomes
+
+Through this project, I learned:
+
+- How PWM controls LED brightness
+- Basic ESP32 programming
+- GPIO output configuration
+- Circuit assembly and testing
+- Debugging simple electronic circuits
+
+## Future Improvements
+
+- Adjust brightness using a potentiometer
+- Add multiple fading LEDs
+- Create different breathing patterns
+- Control brightness using Bluetooth or Wi-Fi
+- Synchronize multiple LEDs with different fade timings
+
+## License
+
+This project is open-source and intended for educational purposes. 

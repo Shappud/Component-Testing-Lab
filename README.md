@@ -33,21 +33,30 @@ Rather than only showcasing finished projects, this repository documents the pro
 | Push Button | Not Started |
 | Buzzer | Not Started |
 | Potentiometer | Not Started |
+| Ultrasonic Sensor | Not Started |
+| KY-037 Sound Sensor | Not Started |
+| Touch Sensor | Not Started |
+| KY-008 Laser module | Not Started |
+| V919 Vibration motor  | Not Started |
+| HW-504 Joystick module | Not Started |
+| 7-segment LED Display | Not Started |
+| IR sender | Not Started |
+| IR reciever | Not Started |
+| Flex Sensor | Not Started |
+| DHT-11 Temperature and Humidity sensor | Not Started |
+| RC522 RFID Reader | Not Started |
+| MQ-3 Gas sensor | Not Started |
 | Servo Motor | Not Started |
-| DC Motor | Not Started |
 | TB6612FNG Motor Driver | Not Started |
+| DC Motor | Not Started |
+| IBT-2 Motor Driver | Not Started |
 | Relay Module | Not Started |
 | OLED Display | Not Started |
 | LCD I2C | Not Started |
-| RC522 RFID Reader | Not Started |
-| MPU6050 | Not Started |
-| Ultrasonic Sensor | Not Started |
-| IR Obstacle Sensor | Not Started |
-| QTR Line Sensor | Not Started |
-| Flex Sensor | Not Started |
-| DFPlayer Mini | Not Started |
-| SD Card Module | Not Started |
-| Bluetooth | Not Started |
+| OPEN SMART Serial MP3 Player | Not Started |
+| TFT Touchscreen display | Not Started |
+| NRF24L01 | Not Started |
+| HC-05 Bluetooth module | Not Started |
 | Wi-Fi | Not Started |
 
 ---

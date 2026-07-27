@@ -1,19 +1,21 @@
+int LED = 23;
+int delayTime = 10;
 void setup() {
-ledcAttach(23,5000, 8); 
+ledcAttach(23,5000, 8); //Define pwm
 }
 
-// fade in 
+// LED fade in 
 void loop() {
 for (int fade = 0;fade <= 255; fade++ )
 {
-  ledcWrite(23, fade);
-  delay(10);
+  ledcWrite(LED, fade);
+  delay(delayTime);
 }
 
-//fade out
+// LED fade out
 for (int fade = 255; fade >= 0; fade--)
 {
-ledcWrite(23, fade);
-  delay(10);
+ledcWrite(LED, fade);
+  delay(delayTime);
 }
 }

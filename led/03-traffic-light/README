@@ -1,1 +1,41 @@
+# 03 - traffic light
 
+## Objective
+
+
+## Components Used
+
+- ESP32
+- 2 LEDs
+- 2 220 Ω resistor
+- Breadboard
+- Jumper wires
+
+## Concepts
+
+- 'for' loops
+- pinMode configuration
+- Variables
+- delays
+
+## Wiring
+
+- Green LED Anode → GPIO 23 (through s 220 Ω resistor)
+- Green LED Cathode → GND
+
+- Red LED Anode → GPIO 22 (through s 220 Ω resistor)
+- Red LED Cathode → GND
+
+## Expected Result
+The 
+
+## What I learned
+
+
+## Challenges
+
+
+## Resources
+
+- ESP32 Documentation
+- Arduino Documentation

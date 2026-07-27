@@ -1,16 +1,16 @@
-int ledPin= 23;
+// Variables
+int ledPin = 23;
 int delayTime = 1000;
 
-void setup() {
+void setup() 
+{
   pinMode(ledPin, OUTPUT);
-
 }
 
-void loop() {
-  digitalWrite(ledPin, HIGH);
-  delay(delayTime);
-  digitalWrite(ledPin, LOW);
-  delay(delayTime);
-
-
+void loop() 
+{
+  digitalWrite(ledPin, HIGH); // LED on
+  delay(delayTime);          
+  digitalWrite(ledPin, LOW);  // LED off
+  delay(delayTime);          
 }

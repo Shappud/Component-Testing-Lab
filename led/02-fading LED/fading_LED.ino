@@ -1,5 +1,6 @@
 int LED = 23;
 int delayTime = 10;
+
 void setup() {
 ledcAttach(23,5000, 8); //Define pwm
 }

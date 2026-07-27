@@ -45,12 +45,6 @@ The LED smoothly fades from off to full brightness, then fades back to off conti
 - Configuring the correct PWM channel and output pin.
 - Adjusting the delay values to achieve a smooth fading effect.
 
-## Improvements
-
-- Add a potentiometer to control the fade speed.
-- Fade multiple LEDs simultaneously.
-- Create different breathing light patterns.
-- Control the brightness wirelessly using Bluetooth or Wi-Fi.
 
 ## Resources
 

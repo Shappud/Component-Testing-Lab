@@ -39,6 +39,7 @@ The LED turns on for one second and turns off for one second continuously.
 - Why a resistor is required
 - How the Arduino loop() function works
 - How to properly use variables
+- How to use delays properly
 
 ## Challenges
 

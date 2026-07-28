@@ -2,6 +2,7 @@
 
 ## Objective
 
+Create a traffic light simulation using a red LED to symbolize stop and a green LED to symbolize go.
 
 ## Components Used
 
@@ -27,13 +28,16 @@
 - Red LED Cathode → GND
 
 ## Expected Result
-The 
+
+The green LED lights up for 3 seconds, blinks 3 times, and turns off. The red LED then lights up for 3 seconds, blinks 3 times, and turns off.
 
 ## What I learned
 
+- How to use for loops correctly
 
 ## Challenges
 
+- for loops was confusing as a beginner
 
 ## Resources
 

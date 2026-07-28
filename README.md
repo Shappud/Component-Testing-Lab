@@ -28,7 +28,7 @@ Rather than only showcasing finished projects, this repository documents the pro
 
 | Component | Status |
 |-----------|:------:|
-| LED | Not Started |
+| LED | Started |
 | RGB LED | Not Started |
 | Push Button | Not Started |
 | Buzzer | Not Started |

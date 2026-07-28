@@ -45,11 +45,6 @@ The LED turns on for one second and turns off for one second continuously.
 
 - Forgot to set the pin as OUTPUT.
 
-## Improvements
-
-- Allow the blink speed to be adjusted.
-- Add multiple LEDs.
-
 ## Resources
 
 - ESP32 Documentation

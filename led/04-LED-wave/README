@@ -34,11 +34,10 @@ The LEDs display a smooth wave animation going from LED1 (right LED) to LED5 (le
 ## What I Learned
 
 - Sequential logic
-- How current flows through an LED
-- Why a resistor is required
-- How the Arduino loop() function works
-- How to properly use variables
-- How to use delays properly
+- Arrays
+- libraries
+- Mathematical Functions
+- Phase Shifting
 
 ## Challenges
 

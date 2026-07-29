@@ -15,7 +15,6 @@ Create a smooth wave animation using 5 LEDs.
 ## Concepts
 
 - for loops
-- HIGH and LOW states
 - pinMode()
 - digitalWrite()
 - delay()

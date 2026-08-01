@@ -29,16 +29,12 @@ Make 5 LEDS randomly fade in and out.
 
 ## Expected Result
 
-The LED turns on for one second and turns off for one second continuously.
+1 out of 5 LEDs will randomly fade in and out, then repeats.
 
 ## What I Learned
 
-- How to configure an output pin
-- How current flows through an LED
-- Why a resistor is required
-- How the Arduino loop() function works
-- How to properly use variables
-- How to use delays properly
+- What the random() function does.
+- How arrays work.
 
 ## Challenges
 

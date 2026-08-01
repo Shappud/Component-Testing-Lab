@@ -34,7 +34,7 @@ Make 5 LEDS randomly fade in and out.
 ## What I Learned
 
 - What the random() function does.
-- How arrays work.
+- How to properly use arrays.
 
 ## Challenges
 

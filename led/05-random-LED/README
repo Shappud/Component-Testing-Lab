@@ -18,7 +18,7 @@ Make 5 LEDS randomly fade in and out.
 - ledcAttach()
 - ledcWrite()
 - for loops
-- variables
+- arrays
 
 ## Wiring
 

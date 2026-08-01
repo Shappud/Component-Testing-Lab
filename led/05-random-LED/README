@@ -36,10 +36,6 @@ Make 5 LEDS randomly fade in and out.
 - What the random() function does.
 - How to properly use arrays.
 
-## Challenges
-
-- Forgot to set the pin as OUTPUT.
-
 ## Resources
 
 - ESP32 Documentation

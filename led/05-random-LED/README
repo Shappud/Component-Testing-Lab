@@ -22,10 +22,11 @@ Make 5 LEDS randomly fade in and out.
 
 ## Wiring
 
-|   LED   |               ESP32              |
-|---------|----------------------------------|
-| Anode   | GPIO 23 (through 220 Ω resistor) |
-| Cathode | GND                              |
+ESP32 GPIO18 ──[220Ω]──►| LED1 ─── GND
+ESP32 GPIO19 ──[220Ω]──►| LED2 ─── GND
+ESP32 GPIO21 ──[220Ω]──►| LED3 ─── GND
+ESP32 GPIO22 ──[220Ω]──►| LED4 ─── GND
+ESP32 GPIO23 ──[220Ω]──►| LED5 ─── GND
 
 ## Expected Result
 

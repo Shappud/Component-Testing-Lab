@@ -1,24 +1,23 @@
-# 01 - Blink
+# 05 - random-LED
 
 ## Objective
 
-Create the simplest ESP32 program by blinking an LED.
+Make 5 LEDS randomly fade in and out.
 
 ## Components Used
 
 - ESP32
-- LED
+- 5 LEDs
 - 220 Ω resistor
 - Breadboard
 - Jumper wires
 
 ## Concepts
 
-- GPIO Output
-- HIGH and LOW states
-- pinMode()
-- digitalWrite()
-- delay()
+- random()
+- ledcAttach()
+- ledcWrite()
+- for loops
 - variables
 
 ## Wiring

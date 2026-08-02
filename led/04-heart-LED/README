@@ -43,10 +43,6 @@ When powered on, the eight LEDs arranged in a heart shape perform a continuous a
 - Organizing Arduino code into reusable functions
 - Creating animations using timing with delay()
 
-## Challenges
-
-- Forgot to set the pin as OUTPUT.
-
 ## Resources
 
 - ESP32 Documentation

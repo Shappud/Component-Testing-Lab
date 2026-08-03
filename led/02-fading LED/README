@@ -40,12 +40,6 @@ The LED smoothly fades from off to full brightness, then fades back to off conti
 - How to use `for` loops for gradual changes
 - How to configure PWM on the ESP32
 
-## Challenges
-
-- Configuring the correct PWM channel and output pin.
-- Adjusting the delay values to achieve a smooth fading effect.
-
-
 ## Resources
 
 - ESP32 Documentation

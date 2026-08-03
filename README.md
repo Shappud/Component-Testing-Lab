@@ -68,10 +68,9 @@ Each component folder contains:
 - A project overview
 - Source code
 - Wiring information
-- Photos of the setup (when available)
+- Demos of the setup (when available)
 - Test results
 - Notes and observations
-- Common issues and solutions
 - References used during development (if applicable)
 
 ---

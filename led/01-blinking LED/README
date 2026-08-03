@@ -41,10 +41,6 @@ The LED turns on for one second and turns off for one second continuously.
 - How to properly use variables
 - How to use delays properly
 
-## Challenges
-
-- Forgot to set the pin as OUTPUT.
-
 ## Resources
 
 - ESP32 Documentation

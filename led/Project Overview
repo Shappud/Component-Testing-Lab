@@ -8,7 +8,7 @@ These examples demonstrate concepts such as digital output, PWM brightness contr
 animations, and generating random patterns. They also serve as reference implementations that can be reused in future robotics, IoT, and embedded 
 system projects
 
-##Projects Included
+-Projects Included-
 
 Blinking LED
 - A basic project that turns an LED on and off repeatedly. This introduces digital output and is often the first step in 

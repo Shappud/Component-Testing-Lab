@@ -22,3 +22,5 @@ Traffic Light
 - Simulates a real-world traffic light by controlling red, yellow, and green LEDs in a timed sequence. This project introduces
   state-based timing and multi-LED control.
 
+Heart LED
+- Creates heart-shaped lighting animations using multiple LEDs. This project explores synchronized LED patterns and visual effects.

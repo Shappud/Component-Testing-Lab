@@ -1,3 +1,3 @@
-This project explores the basic operation of a standard LED using the ESP32.
+LED Projects Overview
 
-The objective is to understand how digital outputs work and how PWM can be used to control brightness.
+This folder contains a collection of basic LED projects created to explore and understand the fundamentals of programming LEDs using an ESP32. Each project focuses on a different lighting behavior or control technique, helping build a strong foundation before moving on to more advanced electronics and embedded systems projects.

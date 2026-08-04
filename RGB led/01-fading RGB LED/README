@@ -1,1 +1,9 @@
+LED Projects Overview
 
+This folder contains a collection of basic LED projects created to explore and understand the fundamentals of programming LEDs using an ESP32.
+Each project focuses on a different lighting behavior or control technique, helping build a strong foundation before moving on to more advanced 
+electronics and embedded systems projects.
+
+These examples demonstrate concepts such as digital output, PWM brightness control, timing with delays, sequencing multiple LEDs,creating lighting
+animations, and generating random patterns. They also serve as reference implementations that can be reused in future robotics, IoT, and embedded 
+system projects

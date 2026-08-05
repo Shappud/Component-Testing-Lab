@@ -10,7 +10,7 @@ system projects
 
 -Projects Included-
 
-Blinking colors LED
+Flashing colors LED
 - A basic project that turns an LED on and off repeatedly. This introduces digital output and is often the first step in 
   learning microcontroller programming.
 

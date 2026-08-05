@@ -34,7 +34,7 @@ The LED turns on for one second and turns off for one second continuously.
 
 ## What I Learned
 
-- How to configure an output pin
+- RGB values
 - How current flows through an LED
 - Why a resistor is required
 - How the Arduino loop() function works

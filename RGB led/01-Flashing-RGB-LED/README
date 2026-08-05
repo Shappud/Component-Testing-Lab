@@ -14,7 +14,7 @@ Create the simplest ESP32 program by blinking an LED.
 
 ## Concepts
 
-- GPIO Output
+- RGB values
 - HIGH and LOW states
 - pinMode()
 - digitalWrite()

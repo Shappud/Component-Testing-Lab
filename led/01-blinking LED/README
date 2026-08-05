@@ -23,10 +23,8 @@ Create the simplest ESP32 program by blinking an LED.
 
 ## Wiring
 
-|   LED   |               ESP32              |
-|---------|----------------------------------|
-| Anode   | GPIO 23 (through 220 Ω resistor) |
-| Cathode | GND                              |
+- LED Anode → GPIO 23 (through a 220 Ω resistor)
+- LED Cathode → GND
 
 ## Expected Result
 

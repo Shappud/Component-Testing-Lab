@@ -15,9 +15,8 @@ Create the simplest ESP32 program by blinking an LED.
 ## Concepts
 
 - RGB values
-- HIGH and LOW states
 - pinMode()
-- digitalWrite()
+- PWM
 - delay()
 - variables
 
@@ -32,11 +31,8 @@ The LED turns on for one second and turns off for one second continuously.
 ## What I Learned
 
 - RGB values
-- How current flows through an LED
-- Why a resistor is required
-- How the Arduino loop() function works
-- How to properly use variables
-- How to use delays properly
+- PWM 
+
 
 ## Resources
 

@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create the simplest ESP32 program by blinking an LED.
+Flash multiple colors one at a time on a single RGB LED.
 
 ## Components Used
 

@@ -29,13 +29,12 @@ Flash multiple colors one at a time on a single RGB LED.
 
 ## Expected Result
 
-The LED turns on for one second and turns off for one second continuously.
+The RGB LED shows the colors blue, green. red, yellow, cyan, and purple for 1 second.
 
 ## What I Learned
 
 - RGB values
 - PWM 
-
 
 ## Resources
 

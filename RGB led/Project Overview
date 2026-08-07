@@ -14,7 +14,7 @@ Flashing RGB LED
 - A basic project that turns an LED on and off repeatedly. This introduces digital output and is often the first step in 
   learning microcontroller programming.
 
-Fading LED
+Fading RGB LED
 - Uses PWM (Pulse Width Modulation) to smoothly increase and decrease an LED's brightness, demonstrating analog-style control 
   with digital hardware.
 

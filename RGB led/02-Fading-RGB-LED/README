@@ -1,1 +1,42 @@
+# 01 - Flashing RGB LED
 
+## Objective
+
+Flash multiple colors one at a time on a single RGB LED.
+
+## Components Used
+
+- ESP32
+- RGB LED
+- 3 220 Ω resistor
+- Breadboard
+- Jumper wires
+
+## Concepts
+
+- RGB values
+- pinMode()
+- PWM
+- delay()
+- variables
+
+## Wiring
+
+- Red pin → GPIO 5 (through a 220 Ω resistor)
+- LED Cathode → GND
+- Red pin → GPIO 19 (through a 220 Ω resistor)
+- Red pin → GPIO 21 (through a 220 Ω resistor)
+
+## Expected Result
+
+The RGB LED shows the colors blue, green. red, yellow, cyan, and purple for 1 second.
+
+## What I Learned
+
+- RGB values
+- PWM 
+
+## Resources
+
+- ESP32 Documentation
+- Arduino Documentation

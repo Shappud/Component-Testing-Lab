@@ -2,7 +2,7 @@
 
 ## Objective
 
-Flash multiple colors one at a time on a single RGB LED.
+Make a RGB LED smoothly fade between different colors using PWM.
 
 ## Components Used
 

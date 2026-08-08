@@ -29,7 +29,9 @@ Make a RGB LED smoothly fade between different colors using PWM.
 
 ## Expected Result
 
-The RGB LED shows the colors blue, green. red, yellow, cyan, and purple for 1 second.
+The RGB LED should smoothly transition between different colors.
+Instead of switching instantly, each color gradually increases and decreases in brightness,
+creating a continuous fading effect.
 
 ## What I Learned
 

@@ -15,11 +15,6 @@ Learning Objectives
  By completing these projects, you will gain experience with:
 
 If/else statements
-Writing basic Arduino/ESP32 programs
-Using digital outputs
-Controlling LED brightness with PWM
-Creating timed lighting sequences
-Designing LED animations and patterns
-Applying programming logic to hardware projects
+
 
 These projects provide a solid foundation for more advanced applications involving displays, sensors, robotics, and interactive embedded systems.

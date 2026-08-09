@@ -10,23 +10,6 @@ system projects
 
 -Projects Included-
 
-Flashing RGB LED
-- A basic project that turns an LED on and off repeatedly. This introduces digital output and is often the first step in 
-  learning microcontroller programming.
-
-Fading RGB LED
-- Uses PWM (Pulse Width Modulation) to smoothly increase and decrease an LED's brightness, demonstrating analog-style control 
-  with digital hardware.
-
-Traffic Light
-- Simulates a real-world traffic light by controlling red, yellow, and green LEDs in a timed sequence. This project introduces
-  state-based timing and multi-LED control.
-
-Heart LED
-- Creates heart-shaped lighting animations using multiple LEDs. This project explores synchronized LED patterns and visual effects.
-
-Random LED
-- Randomly selects LEDs to illuminate, demonstrating the use of random number generation for dynamic lighting effects and simple animations.
 
 Learning Objectives
  By completing these projects, you will gain experience with:

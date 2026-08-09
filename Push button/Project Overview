@@ -31,7 +31,7 @@ Random LED
 Learning Objectives
  By completing these projects, you will gain experience with:
 
-Configuring GPIO pins for LED control
+If/else statements
 Writing basic Arduino/ESP32 programs
 Using digital outputs
 Controlling LED brightness with PWM

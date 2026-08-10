@@ -29,7 +29,7 @@ Rather than only showcasing finished projects, this repository documents the pro
 | Component | Status |
 |-----------|:------:|
 | LED | Finished |
-| RGB LED | Started |
+| RGB LED | Finished |
 | Push Button | Started |
 | Buzzer | Not Started |
 | Potentiometer | Not Started |

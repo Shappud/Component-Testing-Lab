@@ -1,6 +1,6 @@
 Push button projects Overview
 
-This folder contains a collection of basic RGB LED projects created to explore and understand the fundamentals of programming RGB LEDs using an ESP32.
+This folder contains a collection of basic Push button projects created to explore and understand the fundamentals of programming Push buttons using an ESP32.
 Each project focuses on a different lighting behavior or control technique, helping build a strong foundation before moving on to more advanced 
 electronics and embedded systems projects.
 

@@ -30,7 +30,7 @@ Rather than only showcasing finished projects, this repository documents the pro
 |-----------|:------:|
 | LED | Finished |
 | RGB LED | Started |
-| Push Button | Not Started |
+| Push Button | Started |
 | Buzzer | Not Started |
 | Potentiometer | Not Started |
 | Ultrasonic Sensor | Not Started |

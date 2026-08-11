@@ -25,8 +25,10 @@
 
 ## Wiring
 
-- LED Anode → GPIO 23 (through a 220 Ω resistor)
-- LED Cathode → GND
+- LED Anode → GPIO 23 
+- LED Cathode → GND (through a 220 Ω resistor)
+- Push button pin 1 → GPIO23
+- Push button pin 2 → GND
 
 ## Expected Result
 
@@ -34,12 +36,8 @@ The LED turns on for one second and turns off for one second continuously.
 
 ## What I Learned
 
-- How to configure an output pin
-- How current flows through an LED
-- Why a resistor is required
-- How the Arduino loop() function works
-- How to properly use variables
-- How to use delays properly
+- What Input pullups are and how to use them
+- How to properly if/else statements
 
 ## Resources
 

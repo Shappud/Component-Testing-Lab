@@ -2,13 +2,14 @@
 
 ## Objective
 
-Create the simplest ESP32 program by blinking an LED.
+
 
 ## Components Used
 
 - ESP32
 - LED
 - 220 Ω resistor
+- Push button
 - Breadboard
 - Jumper wires
 
@@ -17,8 +18,9 @@ Create the simplest ESP32 program by blinking an LED.
 - GPIO Output
 - HIGH and LOW states
 - pinMode()
+- INPUT_PULLUP
 - digitalWrite()
-- delay()
+- if/else statements
 - variables
 
 ## Wiring

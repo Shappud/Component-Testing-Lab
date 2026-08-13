@@ -32,7 +32,7 @@ Create a simple ESP32 program that detects button presses and controls an LED.
 
 ## Expected Result
 
-When the button is pressed, the LED turns on and stays on after the button is released, then when the button is pressed again, the LED turns off and stays off after the button is released.
+The LED turns on when the push button is pressed and turns off when the button is released.
 
 ## What I Learned
 

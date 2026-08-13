@@ -31,7 +31,7 @@ Create a program using an ESP32 where a button behaves like a switch to turn a L
 
 ## Expected Result
 
-The LED turns on for one second and turns off for one second continuously.
+When the button is pressed, the LED turns on and stays on after releasing the button, then when the button is pressed again, the LED turns off and stays off after releasing the button.
 
 ## What I Learned
 

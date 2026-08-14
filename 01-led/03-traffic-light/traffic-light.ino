@@ -1,9 +1,11 @@
+// variables
 int redLED = 22;
 int greenLED = 23;
 int blinkDelay = 1000;
 int delayON = 3000;
 
 void setup() {
+// define led pins
 pinMode(greenLED, OUTPUT); 
 pinMode(redLED, OUTPUT);
 

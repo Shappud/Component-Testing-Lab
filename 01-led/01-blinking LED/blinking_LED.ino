@@ -4,7 +4,7 @@ int delayTime = 1000;
 
 void setup() 
 {
-  pinMode(ledPin, OUTPUT);
+  pinMode(ledPin, OUTPUT);    // Define pin
 }
 
 void loop() 

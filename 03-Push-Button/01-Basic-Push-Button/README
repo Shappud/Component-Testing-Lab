@@ -25,7 +25,7 @@ Create a simple ESP32 program that detects button presses and controls an LED.
 
 ## Wiring
 
-- LED Anode → GPIO 23 
+- LED Anode → GPIO 16 
 - LED Cathode → GND (through a 220 Ω resistor)
 - Push button pin 1 → GPIO23
 - Push button pin 2 → GND

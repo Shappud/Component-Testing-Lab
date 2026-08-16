@@ -1,4 +1,4 @@
-# 02 - Switch Button
+# 03 - Combination Lock
 
 ## Objective
 Create a program using an ESP32 where a button behaves like a switch to turn a LED on/off

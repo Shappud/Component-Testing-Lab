@@ -1,4 +1,4 @@
-# 02 - Switch Button
+# 03 - Multiple Button Iputs
 
 ## Objective
 Create a program using an ESP32 where a button behaves like a switch to turn a LED on/off

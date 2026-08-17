@@ -1,7 +1,7 @@
 # 03 - Multiple Button Iputs
 
 ## Objective
-Create a program using an ESP32 where a button behaves like a switch to turn a LED on/off
+Create a program using an ESP32 where pressing each button lights  the corresponding LED up, and when both buttons are pressed, both LEDs light up.
 
 ## Components Used
 

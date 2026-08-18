@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create a program using an ESP32 where pressing each button lights  the corresponding LED up, while pressing both buttons simultaneously lights both LEDs.
+
 
 ## Components Used
 

@@ -32,7 +32,6 @@
 
 ## Expected Result
 
-When Button 1 is pressed, LED 1 lights up. When Button 2 is pressed, LED 2 lights up. If both Button 1 and Button 2 are pressed simultaneously, both LED 1 and LED 2 lights up.
 
 ## What I Learned
 

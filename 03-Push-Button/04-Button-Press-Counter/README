@@ -7,9 +7,8 @@ Create a program using an ESP32 where pressing each button lights  the correspon
 ## Components Used
 
 - ESP32
-- 2 LEDs
-- 2 220 Ω resistors
-- 2 Push buttons
+- 220 Ω resistor
+- Push button
 - Breadboard
 - Jumper wires
 

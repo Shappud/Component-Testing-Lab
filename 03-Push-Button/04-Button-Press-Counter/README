@@ -33,7 +33,8 @@ Create a program using an ESP32 where every button press lights up a LED shortly
 
 ## Expected Result
 
-When the button is pressed, the LED lights up for 100ms and the 
+When the button is pressed, the LED lights up for 100ms and the buttonCounter will increment by 1. 
+
 ## What I Learned
 
 - What Input pullups are and how to use them

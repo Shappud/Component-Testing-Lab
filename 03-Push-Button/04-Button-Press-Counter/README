@@ -7,7 +7,7 @@
 ## Components Used
 
 - ESP32
-- 2 LEDs
+- LED
 - 2 220 Ω resistors
 - Push button
 - Breadboard

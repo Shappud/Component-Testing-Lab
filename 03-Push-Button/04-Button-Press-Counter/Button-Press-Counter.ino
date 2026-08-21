@@ -24,7 +24,7 @@ void loop() {
   }
  if (buttonpress == 1)
  {
-  buttonreleased = LOW;
-  delay(50);
+  buttonreleased = LOW;                           //Prepare for next button press
+  delay(50);                                      //Debounce
  }
 }

@@ -20,7 +20,7 @@ Create a program using an ESP32 where every button press lights up a LED shortly
 - pinMode()
 - INPUT_PULLUP
 - digitalWrite()
-- if/else statements
+- Debouncing Mechanics
 - variables
 
 ## Wiring

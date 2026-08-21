@@ -13,7 +13,7 @@ Serial.println(pressCounter);
 void loop() {
   int buttonpress = digitalRead(button);
 
-  if (buttonpress == 0 && buttonreleased == LOW)
+  if (buttonpress == 0 && buttonreleased == LOW)  //Detect button press
   {
     pressCounter++;
     Serial.println(pressCounter);

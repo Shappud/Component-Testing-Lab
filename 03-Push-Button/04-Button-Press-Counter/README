@@ -4,7 +4,6 @@
 
 Create a program using an ESP32 where every button press lights up a LED shortly as it is recorded and the total press times the button was pressed is displayed on the Serial monitor.
 
-
 ## Components Used
 
 - ESP32

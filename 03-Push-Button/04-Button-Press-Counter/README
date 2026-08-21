@@ -21,6 +21,7 @@ Create a program using an ESP32 where every button press lights up a LED shortly
 - INPUT_PULLUP
 - digitalWrite()
 - Debouncing Mechanics
+- if statements
 - variables
 
 ## Wiring

@@ -15,12 +15,12 @@ void loop() {
 
   if (buttonpress == 0 && buttonreleased == LOW)  //Detect button press
   {
-    pressCounter++;
-    Serial.println(pressCounter);
-    buttonreleased = HIGH;
-    digitalWrite(LED, HIGH);
-    delay(100);
-    digitalWrite(LED, LOW);
+    pressCounter++;                               //Increment pressCounter by 1
+    Serial.println(pressCounter);                 //Display pressCounter to Serial Monitor
+    buttonreleased = HIGH;                        //Prevent repeated increments when the button is held down
+    digitalWrite(LED, HIGH);                      //Light up LED
+    delay(100);                                   //For 100ms
+    digitalWrite(LED, LOW);                       //Turn off LED
   }
  if (buttonpress == 1)
  {

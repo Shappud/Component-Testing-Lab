@@ -36,7 +36,9 @@ When the button is pressed, the LED lights up for 100ms and the buttonCounter wi
 
 ## What I Learned
 
-- What Input pullups are and how to use them
+- Serial Communication
+- State Change Detection
+- Variable states
 
 ## Resources
 

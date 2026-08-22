@@ -1,1 +1,47 @@
+# 04 - Button Press Counter
 
+## Objective
+
+Create a program using an ESP32 where every button press lights up a LED shortly as it is recorded and the total press times the button was pressed is displayed on the Serial monitor.
+
+## Components Used
+
+- ESP32
+- LED
+- 220 Ω resistor
+- Push button
+- Breadboard
+- Jumper wires
+
+## Concepts
+
+- GPIO Output
+- HIGH and LOW states
+- pinMode()
+- INPUT_PULLUP
+- digitalWrite()
+- Debouncing Mechanics
+- if statements
+- variables
+
+## Wiring
+
+- LED Anode → GPIO 21 (through a 220 Ω resistor)
+- LED Cathode → GND 
+- Push button pin 1 → GPIO 18
+- Push button pin 2 → GND
+
+## Expected Result
+
+When the button is pressed, the LED lights up for 100ms and the buttonCounter will increment by 1. 
+
+## What I Learned
+
+- Serial Communication
+- State Change Detection
+- Variable states
+
+## Resources
+
+- ESP32 Documentation
+- Arduino Documentation

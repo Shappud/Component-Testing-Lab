@@ -7,8 +7,8 @@ Create a program using an ESP32 where every button press lights up a LED shortly
 ## Components Used
 
 - ESP32
-- LED
-- 220 Ω resistor
+- 2 LEDs
+- 2 220 Ω resistors
 - Push button
 - Breadboard
 - Jumper wires

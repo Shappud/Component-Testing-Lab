@@ -25,10 +25,14 @@ Create a program using an ESP32 where pressing each button lights  the correspon
 
 ## Wiring
 
-- LED Anode → GPIO 16
+- LED Anode → GPIO 18
 - LED Cathode → GND (through a 220 Ω resistor)
-- Push button pin 1 → GPIO 23
-- Push button pin 2 → GND
+- LED Anode → GPIO 23
+- LED Cathode → GND (through a 220 Ω resistor)
+- Push button 1 pin 1 → GPIO 5
+- Push button 1 pin 2 → GND
+- Push button 2 pin 1 → GPIO 22
+- Push button 2 pin 2 → GND
 
 ## Expected Result
 

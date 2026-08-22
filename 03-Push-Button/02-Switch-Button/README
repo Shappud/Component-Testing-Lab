@@ -27,7 +27,7 @@ Create a program using an ESP32 where a button behaves like a switch to turn a L
 
 - LED Anode → GPIO 16
 - LED Cathode → GND (through a 220 Ω resistor)
-- Push button pin 1 → GPIO23
+- Push button pin 1 → GPIO 23
 - Push button pin 2 → GND
 
 ## Expected Result

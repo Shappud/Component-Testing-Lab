@@ -28,7 +28,9 @@ Create a program using an ESP32 where every button press lights up a LED shortly
 
 - LED Anode → GPIO 21 (through a 220 Ω resistor)
 - LED Cathode → GND 
-- Push button pin 1 → GPIO 18
+- LED Anode → GPIO 21 (through a 220 Ω resistor)
+- LED Cathode → GND 
+- Push button pin 1 → GPIO 22
 - Push button pin 2 → GND
 
 ## Expected Result

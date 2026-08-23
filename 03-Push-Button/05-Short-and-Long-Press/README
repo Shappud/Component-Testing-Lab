@@ -41,6 +41,7 @@ When the button is pressed, the LED lights up for 100ms and the buttonCounter wi
 ## What I Learned
 
 - How to use millis() correctly 
+- Timing without delay()
 
 ## Resources
 

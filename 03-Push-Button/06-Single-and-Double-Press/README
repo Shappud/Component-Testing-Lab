@@ -1,8 +1,8 @@
-# 05 - Short and Long Press
+# 06 - Single and Double Press
 
 ## Objective
 
-Create a program using an ESP32 where the system can detect a short button press and a long button press and light up the corresponding LED accordingly.
+Create a program using an ESP32 where the system can detect a single and a double press.
 
 ## Components Used
 

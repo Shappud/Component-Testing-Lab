@@ -27,10 +27,10 @@ Create a program using an ESP32 where the system can detect a short button press
 
 ## Wiring
 
-- LED Anode → GPIO 23 (through a 220 Ω resistor)
-- LED Cathode → GND 
-- LED Anode → GPIO 21 (through a 220 Ω resistor)
-- LED Cathode → GND 
+- LED1 Anode → GPIO 21 (through a 220 Ω resistor)
+- LED1 Cathode → GND 
+- LED2 Anode → GPIO 23 (through a 220 Ω resistor)
+- LED2 Cathode → GND 
 - Push button pin 1 → GPIO 22
 - Push button pin 2 → GND
 

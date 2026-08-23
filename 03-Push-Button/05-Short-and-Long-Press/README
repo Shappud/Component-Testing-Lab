@@ -21,6 +21,7 @@ Create a program using an ESP32 where
 - INPUT_PULLUP
 - digitalWrite()
 - Debouncing Mechanics
+- millis()
 - if statements
 - variables
 
@@ -39,9 +40,7 @@ When the button is pressed, the LED lights up for 100ms and the buttonCounter wi
 
 ## What I Learned
 
-- Serial Communication
-- State Change Detection
-- Variable states
+- How to use millis() correctly 
 
 ## Resources
 

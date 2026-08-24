@@ -9,7 +9,7 @@ Create a program using an ESP32 where you have to press the correct sequence of 
 - ESP32
 - 2 LEDs
 - 2 220 Ω resistors
-- Push button
+- 3 Push buttons
 - Breadboard
 - Jumper wires
 

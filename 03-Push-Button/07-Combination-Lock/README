@@ -35,7 +35,7 @@ Create a program using an ESP32 where you have to press the correct sequence of 
 
 ## Expected Result
 
-When the button is pressed the LED1 lights up. If the button is pressed twice in less than a second, LED2 lights up.
+When the user enters the correct sequence, LED1 lights up. If the user enters an incorrect sequence, LED2 lights up.
 
 ## What I Learned
 

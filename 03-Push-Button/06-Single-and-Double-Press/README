@@ -36,8 +36,7 @@ Create a program using an ESP32 where the system can detect a single and a doubl
 
 ## Expected Result
 
-When the button is pressed the LED1 lights up. If the timespan of the button press is less than 1 second, LED2 will not light up. If 1 second has passed and the button is still held, LED2 lights up
-for 1 second.
+When the button is pressed the LED1 lights up. If the button is pressed twice in less than a second, LED2 lights up.
 
 ## What I Learned
 

@@ -21,7 +21,6 @@ Create a program using an ESP32 where you have to press the correct sequence of 
 - INPUT_PULLUP
 - digitalWrite()
 - Debouncing Mechanics
-- millis()
 - if statements
 - variables
 

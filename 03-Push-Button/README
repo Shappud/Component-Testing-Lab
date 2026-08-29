@@ -1,4 +1,4 @@
-Push button projects Overview
+Push button Projects Overview
 
 This folder contains a collection of basic push button projects created to explore and understand the fundamentals of reading and processing button inputs using an ESP32.
 Each project focuses on a different method of detecting button presses and responding to user input, helping build a strong foundation before moving on to more advanced

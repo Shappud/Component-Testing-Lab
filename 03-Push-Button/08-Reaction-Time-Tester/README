@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create a program using an ESP32 where you have to press the correct sequence of a password using buttons and 2 LEDs for visual feedback.
+Create a program using an ESP32 where it tests your reaction time ny pressing a button when the LED lights up.
 
 ## Components Used
 
@@ -33,7 +33,7 @@ Create a program using an ESP32 where you have to press the correct sequence of 
 
 ## Expected Result
 
-
+A LED will randomly light up in a timespan of 5 seconds. When the LED lights up, a timer starts and pressing the button will record the total time that has passed since the LED turned on.
 
 ## What I Learned
 

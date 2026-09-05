@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create a program using an ESP32 where pressing each button lights  the corresponding LED up, while pressing both buttons simultaneously lights both LEDs.
+Create a program using an ESP32 where pressing each button lights LED1 up, while pressing both buttons simultaneously lights LED2 up.
 
 ## Components Used
 
@@ -36,7 +36,7 @@ Create a program using an ESP32 where pressing each button lights  the correspon
 
 ## Expected Result
 
-When Button 1 is pressed, LED 1 lights up. When Button 2 is pressed, LED 2 lights up. If both Button 1 and Button 2 are pressed simultaneously, both LED 1 and LED 2 lights up.
+When Button 1 or 2 is pressed, LED 1 lights up. If both Button 1 and Button 2 are pressed simultaneously then LED 2 lights up.
 
 ## What I Learned
 

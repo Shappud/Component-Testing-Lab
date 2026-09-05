@@ -1,6 +1,6 @@
-Push button Projects Overview
+IR-Transmitter Projects Overview
 
-This folder contains a collection of basic IR-Sender projects created to explore and understand the fundamentals of reading and processing button inputs using an ESP32.
+This folder contains a collection of basic IR-Transmitter projects created to explore and understand the fundamentals of reading and processing button inputs using an ESP32.
 Each project focuses on a different method of detecting button presses and responding to user input, helping build a strong foundation before moving on to more advanced
 electronics, sensors, and interactive embedded systems projects.
 

@@ -15,12 +15,12 @@ Basic Push Button
 * A basic project that detects whether a push button is pressed or released. This introduces digital input and teaches how a microcontroller reads
   the state of a physical switch.
 
-Button Controlled LED
+Switch Button
 
 * Uses a push button to control an LED, turning it on or off based on the button's state. This project demonstrates how digital inputs can be used
   to control digital outputs.
 
-Button Toggle
+Multiple Button Inputs
 
 * Uses a push button to toggle an LED between two states with each press. This introduces state tracking and basic event-based programming.
 

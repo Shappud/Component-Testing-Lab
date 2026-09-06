@@ -14,29 +14,7 @@ Basic Beep
 
 * A basic project that turns a buzzer on and off using digitalWrite().
 
-Button Controlled LED
 
-* Uses a push button to control an LED, turning it on or off based on the button's state. This project demonstrates how digital inputs can be used
-  to control digital outputs.
-
-Button Toggle
-
-* Uses a push button to toggle an LED between two states with each press. This introduces state tracking and basic event-based programming.
-
-Multiple Push Buttons
-
-* Uses multiple push buttons to control different outputs or functions. This project demonstrates handling several digital inputs and assigning
-  different behaviors to each button.
-
-Button Counter
-
-* Counts the number of times a push button is pressed and displays the current count. This project introduces variables, counting logic, and
-  detecting individual button presses.
-
-Button Combination
-
-* Detects specific combinations of multiple button presses and performs different actions depending on the combination. This introduces conditional
-  logic and more complex user input handling.
 
 
 
@@ -44,16 +22,6 @@ Learning Objectives
 
 By completing these projects, you will gain experience with:
 
-Configuring GPIO pins for button inputs
-Reading digital input states
-Using pull-up and pull-down resistors
-Detecting button presses and releases
-Using conditional statements with hardware inputs
-Tracking button states with variables
-Controlling outputs using button inputs
-Handling multiple input devices
-Creating interactive hardware systems
-Applying programming logic to physical controls
 
 These projects provide a solid foundation for more advanced applications involving keypads, switches, sensors, control panels, robotics, IoT devices, and
 interactive embedded systems.

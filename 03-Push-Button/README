@@ -24,7 +24,7 @@ Multiple Button Inputs
 
 * Uses a push button to toggle an LED between two states with each press. This introduces state tracking and basic event-based programming.
 
-Multiple Push Buttons
+Button Press Counter
 
 * Uses multiple push buttons to control different outputs or functions. This project demonstrates handling several digital inputs and assigning
   different behaviors to each button.

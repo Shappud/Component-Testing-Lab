@@ -29,15 +29,19 @@ Button Press Counter
 * Uses multiple push buttons to control different outputs or functions. This project demonstrates handling several digital inputs and assigning
   different behaviors to each button.
 
-Button Counter
+Short and Long Press
 
 * Counts the number of times a push button is pressed and displays the current count. This project introduces variables, counting logic, and
   detecting individual button presses.
 
-Button Combination
+Combination Lock
 
 * Detects specific combinations of multiple button presses and performs different actions depending on the combination. This introduces conditional
   logic and more complex user input handling.
+
+Reaction Time Tester
+
+
 
 
 

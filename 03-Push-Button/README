@@ -22,7 +22,8 @@ demonstrates how digital inputs can be used to control digital outputs.
 
 Multiple Button Inputs
 
-* Uses a push button to toggle an LED between two states with each press. This introduces state tracking and basic event-based programming.
+* A project that uses two push buttons to control two LEDs. Pressing either button individually lights up LED1, while pressing both buttons simultaneously lights up LED2.
+This introduces digital inputs and logic conditions, teaching how a microcontroller can read multiple physical switches and control outputs based on their combined states.
 
 Button Press Counter
 

@@ -37,29 +37,38 @@ Short and Long Press
 
 Combination Lock
 
-* Detects specific combinations of multiple button presses and performs different actions depending on the combination. This introduces conditional
-  logic and more complex user input handling.
+* A project that uses multiple push buttons to enter a specific combination and lights an LED up when the correct sequence is entered.
+  This introduces input sequences and conditional logic, teaching how a microcontroller can compare user input with a preset combination and respond accordingly.
 
 Reaction Time Tester
 
-
-
+* A project that uses a button and LED to test how quickly a user can react to a visual signal by pressing the button as soon as the LED lights up.
+  This introduces timing and input detection, teaching how a microcontroller can measure the time between an output signal and a user's response.
 
 
 Learning Objectives
 
 By completing these projects, you will gain experience with:
 
-Configuring GPIO pins for button inputs
+Configuring GPIO pins for button inputs and LED outputs
 Reading digital input states
 Using pull-up and pull-down resistors
 Detecting button presses and releases
 Using conditional statements with hardware inputs
-Tracking button states with variables
-Controlling outputs using button inputs
-Handling multiple input devices
-Creating interactive hardware systems
+Tracking button states using variables
+Counting and storing button presses
+Measuring the duration of button presses
+Detecting short and long button presses
+Handling multiple button inputs
+Combining input states using logic conditions
+Creating input sequences and combination-based controls
+Comparing user input with predefined conditions
+Measuring reaction time using timers
+Controlling outputs based on user input
 Applying programming logic to physical controls
+Creating interactive hardware systems
+Understanding how software and hardware work together
+Building more complex projects from basic digital inputs
 
 These projects provide a solid foundation for more advanced applications involving keypads, switches, sensors, control panels, robotics, IoT devices, and
 interactive embedded systems.

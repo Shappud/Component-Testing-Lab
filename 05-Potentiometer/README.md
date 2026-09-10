@@ -20,10 +20,6 @@ Uses a potentiometer to control the brightness of an LED. This introduces PWM an
 
 Uses a potentiometer to turn an LED on or off depending on whether the knob is above or below a specific threshold. This introduces conditional logic and demonstrates how analog readings can be used to make decisions.
 
-### Potentiometer Buzzer Control
-
-Uses the potentiometer to control the frequency of a buzzer. Turning the potentiometer changes the pitch, demonstrating how analog input can control a variable output.
-
 ### Dual Potentiometer Control
 
 Uses two potentiometers to independently control two different outputs. This introduces multiple analog inputs and demonstrates how several variable controls can be processed at the same time.
@@ -43,7 +39,6 @@ By completing these projects, you will gain experience with:
 * Using thresholds with analog inputs
 * Controlling LED brightness
 * Using PWM outputs
-* Controlling buzzer frequency
 * Working with RGB LEDs
 * Using multiple potentiometers
 * Processing multiple analog inputs

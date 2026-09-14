@@ -8,41 +8,21 @@ These examples demonstrate concepts such as digital output, timing, state contro
 
 ## Projects Included
 
-### Basic Laser Control
+### Laser Blink
 
-Uses an ESP32 GPIO pin to turn the KY-008 laser module on and off. This introduces digital output control and demonstrates how a microcontroller can control an external module.
+Turns the laser on and off at regular intervals to create a blinking pattern. This introduces timing and demonstrates how delays can be used to create repeated output patterns.
 
 ### Laser Toggle
 
 Uses a push button to toggle the laser between on and off states. This introduces button press detection and state tracking.
 
-### Laser Blink
-
-Turns the laser on and off at regular intervals to create a blinking pattern. This introduces timing and demonstrates how delays can be used to create repeated output patterns.
-
-### Laser Pulse
-
-Generates short laser pulses at controlled intervals. This introduces precise timing and demonstrates how an output can be activated for a specific period.
-
-### Laser Patterns
-
-Creates different programmed sequences of laser pulses. This introduces arrays, timing, and sequencing and demonstrates how an output can communicate information through patterns.
-
 ### Laser Timer
 
-Activates the laser for a defined amount of time after an input event. This introduces timing-based control and demonstrates how an output can automatically switch off after a programmed duration.
+Activates the laser for a defined amount of time entered through the Serial Monitor. This introduces timing-based control and demonstrates how an output can automatically switch off after a specified duration.
 
 ### Laser Morse Signal
 
 Uses timed laser flashes to represent simple Morse-code signals. This introduces timed communication patterns and demonstrates how information can be represented using an optical output.
-
-### Laser Beacon
-
-Creates a repeating optical beacon pattern using the KY-008. This introduces periodic signaling and demonstrates how a laser can be used as a simple visual reference or signal.
-
-### Laser State Monitor
-
-Controls the laser while displaying its current state through the Serial Monitor. This introduces state tracking and demonstrates how program state can be monitored while controlling an output.
 
 ## Learning Objectives
 

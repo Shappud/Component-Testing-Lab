@@ -24,29 +24,9 @@ Determines whether the joystick is being moved up, down, left, right, or is near
 
 Creates a dead zone around the joystick's center position where small movements are ignored. This introduces input filtering and helps prevent unintended movement caused by small variations in the joystick's resting position.
 
-### Joystick Calibration
-
-Reads the joystick's resting position and establishes center values for the X and Y axes. This introduces calibration and demonstrates how input devices can be adjusted to account for differences between individual modules.
-
-### Joystick Mapping
-
-Maps the joystick's raw ADC readings into a different numerical range. This introduces value mapping and demonstrates how joystick input can be converted into useful control values.
-
 ### Joystick LED Control
 
 Uses joystick movement to control LEDs based on the direction of movement. This introduces sensor-controlled outputs and demonstrates how two-axis input can control multiple outputs.
-
-### Joystick Servo Control
-
-Uses the joystick's X and Y axes to control servo positions. This introduces multi-axis control and demonstrates how joystick movement can be translated into mechanical movement.
-
-### Joystick Speed Control
-
-Uses the joystick's position to control the speed of an output such as a motor through PWM. This introduces proportional control and demonstrates how the amount of joystick movement can affect output intensity.
-
-### Joystick Controller
-
-Combines the joystick axes and button into a simple controller interface. Different joystick movements and button presses are assigned to different actions. This introduces multiple-input processing and demonstrates how a joystick can act as a general-purpose control device.
 
 ## Learning Objectives
 
@@ -69,7 +49,6 @@ By completing these projects, you will gain experience with:
 * Tracking input states
 * Creating proportional controls
 * Controlling LEDs using joystick movement
-* Controlling servo positions
 * Controlling output speed using joystick position
 * Creating reusable joystick functions
 * Building simple controller interfaces

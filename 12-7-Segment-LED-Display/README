@@ -1,33 +1,59 @@
-7-Segment LED Display Projects Overview
+# 7-Segment LED Display Projects
 
-This folder contains a collection of basic 7-Segment LED Display projects created to explore and understand the fundamentals of reading and processing button inputs using an ESP32.
-Each project focuses on a different method of detecting button presses and responding to user input, helping build a strong foundation before moving on to more advanced
-electronics, sensors, and interactive embedded systems projects.
+This repository contains a collection of beginner-friendly 7-segment LED display projects created to explore and understand the fundamentals of controlling a 7-segment display with an ESP32.
 
-These examples demonstrate concepts such as digital input, GPIO configuration, button state detection, pull-up and pull-down resistors, toggling outputs,
-using buttons to control LEDs, detecting multiple button inputs, and creating interactive hardware systems. They also serve as reference implementations that can
-be reused in future robotics, IoT, and embedded system projects.
+Each project focuses on a different technique for displaying numbers, controlling individual segments, creating counters, handling buttons, and managing timed displays. Together, they provide a structured introduction to 7-segment displays before moving on to more advanced display and embedded systems projects.
 
--Projects Included-
+These examples demonstrate concepts such as segment control, digit patterns, counting, timing, button input, serial input, and reusable display functions. They can also serve as reference implementations that can be reused and expanded in future robotics, IoT, and embedded systems projects.
 
+## Projects Included
 
+### Number Counter
 
+Displays a continuously increasing number on the 7-segment display.
 
-Learning Objectives
+### Button Counter
+
+Uses a push button to increase the displayed number whenever the button is pressed.
+
+### Countdown
+
+Counts down from a starting number to zero.
+
+### Number Timer
+
+Displays changing numbers at fixed time intervals to create a simple timer.
+
+### Segment Test
+
+Activates each segment individually to verify that the display is wired and functioning correctly.
+
+### Custom Digit Patterns
+
+Creates custom segment patterns to control how numbers or symbols appear on the display.
+
+### Even and Odd Counter
+
+Displays only even or odd numbers while counting through a defined range.
+
+### Adjustable Counter
+
+Allows the counting behavior or starting value to be adjusted through user input.
+
+## Learning Objectives
 
 By completing these projects, you will gain experience with:
 
-Configuring GPIO pins for button inputs
-Reading digital input states
-Using pull-up and pull-down resistors
-Detecting button presses and releases
-Using conditional statements with hardware inputs
-Tracking button states with variables
-Controlling outputs using button inputs
-Handling multiple input devices
-Creating interactive hardware systems
-Applying programming logic to physical controls
+* Controlling individual 7-segment display segments
+* Creating and using digit patterns
+* Displaying numbers from 0–9
+* Testing individual segments
+* Using variables for counting and display control
+* Creating counters and countdowns
+* Using timing functions
+* Reading push-button input
+* Processing serial input
+* Creating custom display patterns
+* Building reusable display functions
 
-These projects provide a solid foundation for more advanced applications involving keypads, switches, sensors, control panels, robotics, IoT devices, and
-interactive embedded systems.
-
+These projects provide a solid foundation for understanding 7-segment LED displays and demonstrate how they can be used for counters, timers, indicators, and other embedded systems applications.

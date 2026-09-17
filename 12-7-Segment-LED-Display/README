@@ -32,13 +32,9 @@ Activates each segment individually to verify that the display is wired and func
 
 Creates custom segment patterns to control how numbers or symbols appear on the display.
 
-### Even and Odd Counter
-
-Displays only even or odd numbers while counting through a defined range.
-
 ### Adjustable Counter
 
-Allows the counting behavior or starting value to be adjusted through user input.
+Allows the counting behavior to be adjusted through user input.
 
 ## Learning Objectives
 

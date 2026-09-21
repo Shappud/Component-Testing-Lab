@@ -20,10 +20,6 @@ Uses a push button to increase the displayed number whenever the button is press
 
 Counts down from a starting number to zero.
 
-### Number Timer
-
-Displays changing numbers at fixed time intervals to create a simple timer.
-
 ### Segment Test
 
 Activates each segment individually to verify that the display is wired and functioning correctly.

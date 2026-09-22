@@ -24,7 +24,7 @@ Counts down from a starting number to zero.
 
 Activates each segment individually to verify that the display is wired and functioning correctly.
 
-### Custom Digit Patterns
+### Custom Segment Patterns
 
 Creates custom segment patterns to control how numbers or symbols appear on the display.
 

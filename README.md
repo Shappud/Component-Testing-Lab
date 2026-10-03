@@ -42,7 +42,6 @@ Rather than only showcasing finished projects, this repository documents the pro
 | 7-segment LED Display | Not Started |
 | IR sender | Not Started |
 | IR reciever | Not Started |
-| Flex Sensor | Not Started |
 | DHT-11 Temperature and Humidity sensor | Not Started |
 | RC522 RFID Reader | Not Started |
 | MQ-3 Gas sensor | Not Started |
